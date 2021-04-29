@@ -1,0 +1,16 @@
+PODS:
+  - SawoFramework (0.1.0)
+
+DEPENDENCIES:
+  - SawoFramework (from `../`)
+
+EXTERNAL SOURCES:
+  SawoFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SawoFramework: 264ebc30c67d20a852678bcaaa698ab2f9db70b0
+
+PODFILE CHECKSUM: 3b4288d7797f6a9b1e3c99a2d51f4e9205d13ce9
+
+COCOAPODS: 1.10.0
