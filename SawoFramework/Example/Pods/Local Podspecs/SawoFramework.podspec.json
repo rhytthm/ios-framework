@@ -1,0 +1,22 @@
+{
+  "name": "SawoFramework",
+  "version": "0.1.0",
+  "summary": "A short description of SawoFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rhytthm/SawoFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rhytthm": "rhytthm17@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/rhytthm/SawoFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SawoFramework/Classes/**/*"
+}
